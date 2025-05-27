@@ -17,9 +17,10 @@ Je suis **Data Analyst** en reconversion, passionné par la data, les KPIs et l�
 
 ## 📌 Mes projets Data
 
-- 📊 **Analyse financière des entreprises milliardaires** —(https://github.com/Djaha-Charly/analyse-financiere-entreprises-milliardaires)
-- 🛒 **Analyse e-commerce & comportement client** — [[Lien vers le projet](https://github.com/ton-repo-ecommerce)](https://github.com/Djaha-Charly/Ecommerce_Customer_Behavior_Analysis)
-- 📈 **Prévision des ventes** — [Lien vers le projet](https://github.com/ton-repo-prevision)
+- 📊 **Analyse financière des entreprises milliardaires** — (https://github.com/Djaha-Charly/analyse-financiere-entreprises-milliardaires)
+- 🛒 **Analyse e-commerce & comportement client** — (https://github.com/ton-repo-ecommerce)](https://github.com/Djaha-Charly/Ecommerce_Customer_Behavior_Analysis)
+- 📈 **Analyse des ventes en supermarché avec Machine Learning** — (https://github.com/Djaha-Charly/Analyse-des-ventes-en-supermarch-avec-Machine-Learning)
+- 📊**Analyse des Flux de Voyageurs SNCF en Île-de-France** - (https://github.com/Djaha-Charly/powerbi-sncf-analysis)
 - ➕ Et bien d’autres en cours...
 
 ---
