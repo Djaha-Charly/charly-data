@@ -28,7 +28,7 @@ Je suis **Data Analyst** en reconversion, passionné par la data, les KPIs et l�
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/charly-data-analyst)  
-✉️ **Email :** ton.email@gmail.com
+✉️ **Email :** charlywilo@gmail.com
 
 ---
 
