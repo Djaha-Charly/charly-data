@@ -17,7 +17,7 @@ Je suis **Data Analyst** en reconversion, passionné par la data, les KPIs et l�
 
 ## 📌 Mes projets Data
 
-- 📊 **Analyse financière des entreprises milliardaires** — [Lien vers le projet](https://github.com/ton-repo-finance)
+- 📊 **Analyse financière des entreprises milliardaires** — [[Lien vers le projet](https://github.com/ton-repo-finance)](https://github.com/Djaha-Charly/analyse-financiere-entreprises-milliardaires)
 - 🛒 **Analyse e-commerce & comportement client** — [Lien vers le projet](https://github.com/ton-repo-ecommerce)
 - 📈 **Prévision des ventes** — [Lien vers le projet](https://github.com/ton-repo-prevision)
 - ➕ Et bien d’autres en cours...
