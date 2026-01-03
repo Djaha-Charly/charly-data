@@ -1,8 +1,14 @@
 # 👋 Hello, moi c’est Charly William DJAHA YANKEP
 
 Bienvenue sur mon profil GitHub 👨‍💻 !  
-Je suis **Data Analyst** en reconversion, passionné par la data, les KPIs et l’analyse de performance.  
-📍 Basé à Saint-Pierre-des-Corps, je réalise des projets concrets en Power BI, SQL et Python pour différents domaines : finance, e-commerce, santé et plus encore.
+Ingénieur informatique orienté Data Analysis et Business Intelligence.
+
+Titulaire d’un diplôme en ingénierie informatique obtenu en Italie, je développe aujourd’hui des compétences en analyse de données orientées business et finance, dans une perspective d’intégration sur le marché européen.
+
+Je travaille sur des projets concrets de Data Analysis en utilisant SQL, Python (Pandas) et Power BI, avec une approche axée sur la compréhension des données, l’interprétation des indicateurs et l’aide à la prise de décision.
+
+🎯 Objectif : intégrer une équipe data en tant que Data Analyst et contribuer à des projets liés à la performance, au reporting et à la décision.
+
 
 ---
 
